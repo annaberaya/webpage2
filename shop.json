@@ -1,0 +1,84 @@
+[
+  {
+    "id": "1",
+    "title": "Портер Дориана Грея",
+    "vendor_code": "111",
+    "description": "Оскар Уайльд",
+    "price": 500,
+    "img": "book1.jpeg"
+  },
+  {
+    "id": "2",
+    "title": "1984",
+    "vendor_code": "222",
+    "description": "Джордж Оруэлл",
+    "price": 400,
+    "img": "book2.jpeg"
+  },
+  {
+    "id": "3",
+    "title": "Гордость и предубеждение",
+    "vendor_code": "333",
+    "description": "Джейн Остен",
+    "price": 300,
+    "img": "book3.jpeg"
+  },
+  {
+    "id": "4",
+    "title": "Три товарища",
+    "vendor_code": "444e",
+    "description": "Эрих Мария Ремарк",
+    "price": 400,
+    "img": "book4.jpeg"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "Грозовой перевал",
+    "vendor_code": "4445e",
+    "description": "Эмили Бронте",
+    "price": 400,
+    "img": "book5.jpeg"
+  },
+  {
+    "id": "6",
+    "title": "Убить пересмешника",
+    "vendor_code": "4446e",
+    "description": "Харпер Ли",
+    "price": 300,
+    "img": "book6.jpeg"
+  },
+  {
+    "id": "7",
+    "title": "Повелитель мух",
+    "vendor_code": "4447e",
+    "description": "Уильям Голдинг",
+    "price": 700,
+    "img": "book7.jpeg"
+  },
+  {
+    "id": "8",
+    "title": "Отцы и дети",
+    "vendor_code": "4448e",
+    "description": "Иван Тургенев",
+    "price": 200,
+    "img": "book8.jpeg"
+  },
+  {
+    "id": "9",
+    "title": "Маленькие женщины",
+    "vendor_code": "4449e",
+    "description": "Луиза Мэй Олкотт",
+    "price": 400,
+    "img": "book9.jpeg"
+  }
+  ,
+  {
+    "id": "10",
+    "title": "Ночь в Лиссабоне",
+    "vendor_code": "44410e",
+    "description": "Эрих Мария Ремарк",
+    "price": 900,
+    "img": "book10.jpeg"
+  }
+]
